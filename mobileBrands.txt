@@ -1,1 +1,1 @@
-brands - pixel,iphone,lava,samsung
+brands - pixel,iphone,lava,samsung,sony,moto
